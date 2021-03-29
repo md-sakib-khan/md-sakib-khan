@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MdSakibKhan
 - 👀 I’m interested in Data Science and Software Development.
-- 🌱 I’m currently working on REACT JS & Node JS.
+- 🌱 I’m currently working on MERN Stack.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me ... Email : hrk.sakib@gmail.com
 
