@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MdSakibKhan
-- 👀 I’m interested in Data Science and Software Development.
+- 👀 I’m interested in Data Science and Software Engineering.
 - 📫 How to reach me ... Email : hrk.sakib@gmail.com
 
 <!---
