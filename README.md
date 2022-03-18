@@ -1,8 +1,8 @@
-<About>
+# `About`
 
 A poet with a programming mindset who loves to work with complex and data-driven software solutions and has a strong interest in the emerging field of data science. Currently Working as Associate Software Engineer at Therap (BD) Ltd. Completed my B.Sc. in Computer Science & Engineering with distinction from BRAC University.
 
-<Skillset>
+# `Skillset`
 
 • Languages: Core Java(8+), C#, JavaScript, ES6, TypeScript, Python, Dart.
 • Backend: Spring MVC, Spring Boot, Hibernate, JDBC, JPA, Servlet, Express JS, Nest JS, .NET, Flask.
@@ -13,7 +13,7 @@ A poet with a programming mindset who loves to work with complex and data-driven
 • Tools: Docker, Postman, Jira.
 • Operating System: Linux, Windows.
 
-<Interests>
+# `Interests`
 
 • Software Engineering.
 • Data Science.
