@@ -4,20 +4,20 @@ A poet with a programming mindset who loves to work with complex and data-driven
 
 # `Skillset`
 
-• Languages: Core Java(8+), C#, JavaScript, ES6, TypeScript, Python, Dart.
-• Backend: Spring MVC, Spring Boot, Hibernate, JDBC, JPA, Servlet, Express JS, Nest JS, .NET, Flask.
-• Database: MySQL, PostgreSQL, MongoDB, DynamoDB, Firebase.
-• Frontend: React JS, Redux, JSP, HTML5, CSS3, Bootstrap, Material UI.
-• Version Control: Git, GitHub, Bitbucket.
-• IDE: IntelliJ Idea, Visual Studio Code, WebStorm.
-• Tools: Docker, Postman, Jira.
-• Operating System: Linux, Windows.
+- Languages: Core Java(8+), C#, JavaScript, ES6, TypeScript, Python, Dart.
+- Backend: Spring MVC, Spring Boot, Hibernate, JDBC, JPA, Servlet, Express JS, Nest JS, .NET, Flask.
+- Database: MySQL, PostgreSQL, MongoDB, DynamoDB, Firebase.
+- Frontend: React JS, Redux, JSP, HTML5, CSS3, Bootstrap, Material UI.
+- Version Control: Git, GitHub, Bitbucket.
+- IDE: IntelliJ Idea, Visual Studio Code, WebStorm.
+- Tools: Docker, Postman, Jira.
+- Operating System: Linux, Windows.
 
 # `Interests`
 
-• Software Engineering.
-• Data Science.
-• Research & Development.
-• Blogging on Technical Topics.
-• Project & Research Collaboration.
-• Coaching and Mentoring.
+- Software Engineering.
+- Data Science.
+- Research & Development.
+- Blogging on Technical Topics.
+- Project & Research Collaboration.
+- Coaching and Mentoring.
