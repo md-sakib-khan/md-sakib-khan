@@ -1,23 +1,11 @@
-# `About`
+### A Poet with a Programming Mindset Who Loves to Work with Complex and Data-Driven Software Solutions and has a Strong Interest in the Emerging Field of Data Science. Currently Working as Associate Software Engineer at Therap (BD) Ltd. Completed my B.Sc. in Computer Science & Engineering with distinction from BRAC University.
 
-A Poet with a Programming Mindset Who Loves to Work with Complex and Data-Driven Software Solutions and has a Strong Interest in the Emerging Field of Data Science. Currently Working as Associate Software Engineer at Therap (BD) Ltd. Completed my B.Sc. in Computer Science & Engineering with distinction from BRAC University.
-
-# `Skillset`
-
-- ***Languages***: Core Java(8+), JavaScript, ES6, TypeScript, Python.
-- ***Backend***: Spring MVC, Spring Boot, Hibernate, JDBC, JPA, Servlet, Express JS, Nest JS, Flask.
-- ***Database***: MySQL, PostgreSQL, MongoDB.
-- ***Frontend***: React JS, Redux, JSP, HTML5, CSS3, Bootstrap, Material UI.
-- ***Version Control***: Git, GitHub, Bitbucket.
-- ***IDE***: IntelliJ Idea, Visual Studio Code, WebStorm.
-- ***Tools***: Docker, Postman, Jira.
-- ***Operating*** System: Linux, Windows.
-
-# `Interests`
-
-- Software Engineering.
-- Data Science.
-- Research & Development.
-- Blogging on Technical Topics.
-- Project & Research Collaboration.
-- Coaching and Mentoring.
+![image](assets/gif003.gif)
+<table>
+    <tr>
+      <th><a href="mailto:hrk.sakib@gmail.com" target="_blank"><img alt="Gmail" src="assets/google-gmail.svg" title="Email" width="32" height="32" /></a></th>
+      <th><a href="https://github.com/MdSakibKhan" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a></th>
+      <th><a href="https://www.linkedin.com/in/md-sakib-khan/" target="_blank"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a></th>
+      <th><a href="https://www.facebook.com/hrk.sakib" target="_blank"><img alt="Facebook" title="Facebook" height="32" width="32" src="assets/facebook.svg"></a></th>
+    </tr>
+</table>
