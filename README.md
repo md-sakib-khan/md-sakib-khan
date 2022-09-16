@@ -1,4 +1,4 @@
-### A Poet with a Programming Mindset Who Loves to Work with Complex and Data-Driven Software Solutions and has a Strong Interest in the Emerging Field of Data Science. Currently Working as Associate Software Engineer at Therap (BD) Ltd. Completed my B.Sc. in Computer Science & Engineering with distinction from BRAC University.
+### Impact and solution-driven Software Engineer having significant experience in the computer software sector. Competent in Java, Spring Boot, Spring MVC, Hibernate, Oracle SQL, MySQL, MongoDB, Gradle, JSP, HTML, CSS, Bootstrap, JavaScript, ES6, TypeScript, React JS, Redux, Express JS, Git, Docker, Linux. Strong engineering professional having a Bachelor of Science (B.Sc.) degree in Computer Science and Engineering (CSE) from BRAC University.
 
 ![image](assets/gif003.gif)
 <table>
