@@ -19,16 +19,144 @@
 <br> 
     <img 
         src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" 
-        alt="Java" width="100" height=""/> &nbsp &nbsp
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Java" width="140" height="60"/> &nbsp &nbsp
     <img 
-        src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" 
-        alt="Java" width="150" height=""/> &nbsp &nbsp
+        src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Java" width="190" height="60"/> &nbsp &nbsp
     <img 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TypeScript_Logo_%28Blue%29.svg/2560px-TypeScript_Logo_%28Blue%29.svg.png" 
-        alt="Java" width="130" height=""/> &nbsp &nbsp
+        src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg" 
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Java" width="190" height="60"/> &nbsp &nbsp
     <img 
-            src="https://www.vectorlogo.zone/logos/python/python-official.svg" 
-            alt="mysql" width="115" height=""/>&nbsp
+        src="https://www.vectorlogo.zone/logos/python/python-official.svg" 
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em"  
+        alt="mysql" width="190" height="60"/>&nbsp
 </p>
 <hr>
 
+<h3 align="left"><b>𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 :</h3>
+<p>
+<br>
+    <img 
+        src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" 
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Spring" width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Hibernate" width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" 
+        style="background-color: white;
+                padding-bottom: 8px;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Node JS" width="140" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Express JS" width="120" height="60"/> &nbsp &nbsp
+</p>
+<hr>
+
+<h3 align="left"><b>𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 :</h3>
+<p>
+    <img 
+        src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" 
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="React JS"
+        width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.codespot.org/assets/cover/redux-landscape.png" 
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Redux"
+        width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="jQuery" width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="HTML" width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="CSS" width="120" height="60"/> &nbsp &nbsp
+</p>
+
+<hr>
+<h3 align="left"><b>𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 :</h3>
+    <img 
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d6/%D8%A6%DB%86%D8%B1%D8%A7%DA%A9%DA%B5.png"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Oracle Database" width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="MySQL" width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="MongoDB" width="120" height="60"/> &nbsp &nbsp
+<p>
+
+<hr>
+<h3 align="left"><b>𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜 & 𝙸𝙳𝙴 :</h3>
+    <img 
+        src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Docker" width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://icon-library.com/images/intellij-idea-icon/intellij-idea-icon-26.jpg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Intellij Idea" width="130" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Postman" width="120" height="60"/> &nbsp &nbsp
+    <img 
+        src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"
+        style="background-color: white;
+                box-shadow: 1px 1px 5px 0 lightblue;
+                border-radius: 0.2em" 
+        alt="Visual Studio Code" width="120" height="60"/> &nbsp &nbsp
+<p>
